@@ -2,9 +2,10 @@
 
 # our image is centos default image with systemd
 FROM centos/systemd
+#FROM registry.access.redhat.com/rhel7
 
 # who's your boss?
-MAINTAINER "Tamas Foldi" <tfoldi@starschema.net>
+MAINTAINER "Patrick I" <obiomap>
 
 # this is the version what we're building
 ENV TABLEAU_VERSION="2019.1.1" \

@@ -5,7 +5,7 @@
          "port": 80,
          "firewallOpeningEnabled": true,
          "sslRedirectEnabled": true,
-         "publicHost": "localhost",
+         "publicHost": "3.92.59.123",
          "publicPort": 80
       },
       "identityStore": {
